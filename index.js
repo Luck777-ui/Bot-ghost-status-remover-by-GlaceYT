@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["New era","bot geral privado"];
+const statusMessages = ["Yuzinha","New era"];
 
 
 let currentIndex = 0;
